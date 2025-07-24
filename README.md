@@ -67,5 +67,6 @@ Due to file size limitations on GitHub, the `YOLOv5.ipynb` notebook could not be
     * **Install Dependencies**: The notebook will install the necessary libraries, including `ultralytics`.
     * **Train the Model**: Run the training cell to train the YOLOv5 model on the dataset. The notebook is set to train for 20 epochs, but you can adjust this.
     * **Run Inference**: After training, you can upload an image to the notebook to see the model's predictions.
+<img width="288" height="583" alt="image" src="https://github.com/user-attachments/assets/a09ebbc5-1beb-4311-a111-4ec3f7acc87a" />
 
 ---
