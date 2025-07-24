@@ -1,0 +1,6 @@
+path: '/content/gdrive/My Drive/add/yolo_formatted_dataset'
+train: images/train
+val: images/val
+
+nc: 10
+names: ['Bengali', 'English', 'Gujarati', 'Hindi', 'Kannada', 'Malayalam', 'Numeral', 'Punjabi', 'Tamil', 'Telugu']
