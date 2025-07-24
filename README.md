@@ -69,17 +69,3 @@ Due to file size limitations on GitHub, the `YOLOv5.ipynb` notebook could not be
     * **Run Inference**: After training, you can upload an image to the notebook to see the model's predictions.
 
 ---
-
-## 🖼️ Sample Outputs
-
-Here are some examples of the model's output:
-
-<img src="download-4.png" width="400"/>
-<img src="download (1).png" width="400"/>
-<img src="download-5.png" width="400"/>
-<img src="download-1.png" width="400"/>
-<img src="download (2).png" width="400"/>
-<img src="download-6.png" width="400"/>
-<img src="download-2.png" width="400"/>
-<img src="download-3.png" width="400"/>
-<img src="download-7.png" width="400"/>
