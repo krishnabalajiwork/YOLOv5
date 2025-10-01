@@ -10,7 +10,7 @@ This project uses the YOLOv5 object detection algorithm to identify and locate t
 * Bengali
 * English
 * Gujarati
-* Hindi
+* Hindi 
 * Kannada
 * Malayalam
 * Numeral
