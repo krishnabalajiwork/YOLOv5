@@ -1,4 +1,4 @@
-# YOLOv5 Object Detection for Indian Langua ges and Numerals
+# YOLOv5 Object Detection for Indian Languages and Numerals
 
 This repository contains a YOLOv5 model for detecting text in various Indian languages and numerals in images.
 
